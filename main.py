@@ -2,41 +2,72 @@ import feedparser
 from datetime import datetime
 import requests
 from secrets import DISCORD_WEBHOOK_URL
+import os
+
+SENT_FILE = "sent_urls.txt"
+
+
+def load_already_sent_articles():
+    """Load URLs of articles already sent to Discord."""
+    if not os.path.exists(SENT_FILE):
+        return set()
+    with open(SENT_FILE, "r") as file:
+        return set(file.read().splitlines())
+
+
+def add_already_sent_article(url):
+    """Add a URL to the sent list without overwriting existing entries."""
+    with open(SENT_FILE, "a") as file:  # append mode
+        file.write(url + "\n")
+
 
 def send_discord_message(content: str):
-    data = {
-        "content": content
-    }
+    """Send a message to Discord via webhook."""
+    data = {"content": content}
     response = requests.post(DISCORD_WEBHOOK_URL, json=data)
 
     if response.status_code == 204:
-        print("✅ Message has been send !")
+        print("✅ Message sent successfully!")
     else:
-        print(f"❌ Error {response.status_code} : {response.text}")
+        print(f"❌ Error {response.status_code}: {response.text}")
 
-def feeds():
-    with open("feeds.txt", "r") as file :
-        feeds = file.read().splitlines()
-    return feeds
 
-def list_item_feed(feed_url):
+def load_feeds():
+    """Load RSS feed URLs from feeds.txt."""
+    with open("feeds.txt", "r") as file:
+        return file.read().splitlines()
+
+
+def list_items_from_feed(feed_url, sent_articles):
+    """Check the feed for today's articles and send new ones to Discord."""
     parsed = feedparser.parse(feed_url)
-    for entry in parsed.entries :
-        channel = parsed.channel
-        pub_date = getattr(entry, "published", None) or getattr(entry, "pubDate", None) or "Unknown date"
+    feed_title = getattr(parsed.feed, "title", "Unknown Blog")
 
-        today_str = datetime.now().strftime("%d %b %Y")
-        if today_str in pub_date :
-            print(f"Article has been published today, should trigger message")
+    #today_str = datetime.now().strftime("%d %b %Y")
+    today_str = "16 Sep 2025"
+
+    for entry in parsed.entries:
+        pub_date = getattr(entry, "published", None) or getattr(entry, "pubDate", None) or "Unknown date"
+        article_id = getattr(entry, "link", None)
+
+        if not article_id:
+            continue  # skip entries without link
+
+        if today_str in pub_date and article_id not in sent_articles:
+            print("Article published today, sending message...")
             message = (
-                f"Blog title : {channel.title}\n"
-                f"Title : {entry.title}\n"
-                f"Link : {entry.link}\n"
-                f"PubDate : {pub_date}"
+                f"Blog title: {feed_title}\n"
+                f"Title: {getattr(entry, 'title', 'No title')}\n"
+                f"Link: {article_id}\n"
+                f"PubDate: {pub_date}"
             )
             send_discord_message(message)
+            add_already_sent_article(article_id)
+            sent_articles.add(article_id)  # update in-memory set to avoid duplicates in same run
+
 
 if __name__ == "__main__":
-    feeds = feeds()
-    for feed in feeds :
-        list_item_feed(feed)
+    sent_articles = load_already_sent_articles()
+    feeds = load_feeds()
+    for feed in feeds:
+        list_items_from_feed(feed, sent_articles)
