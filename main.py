@@ -1,7 +1,5 @@
 import feedparser
-from datetime import datetime
 import requests
-from secrets import DISCORD_WEBHOOK_URL
 import os
 
 SENT_FILE = "sent_urls.txt"
@@ -24,7 +22,7 @@ def add_already_sent_article(url):
 def send_discord_message(content: str):
     """Send a message to Discord via webhook."""
     data = {"content": content}
-    response = requests.post(DISCORD_WEBHOOK_URL, json=data)
+    response = requests.post(os.getenv("DISCORD_WEBHOOK_URL"), json=data)
 
     if response.status_code == 204:
         print("✅ Message sent successfully!")
