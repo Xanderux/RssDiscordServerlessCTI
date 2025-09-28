@@ -1,5 +1,6 @@
 import feedparser
 import requests
+import datetime
 import os
 
 SENT_FILE = "sent_urls.txt"
@@ -44,8 +45,7 @@ def list_items_from_feed(feed_url, sent_articles):
     parsed = feedparser.parse(feed_url)
     feed_title = getattr(parsed.feed, "title", "Unknown Blog")
 
-    #today_str = datetime.now().strftime("%d %b %Y")
-    today_str = "16 Sep 2025"
+    today_str = datetime.now().strftime("%d %b %Y")
 
     for entry in parsed.entries:
         pub_date = getattr(entry, "published", None) or getattr(entry, "pubDate", None) or "Unknown date"
