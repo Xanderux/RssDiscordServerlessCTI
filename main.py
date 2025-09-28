@@ -1,6 +1,6 @@
 import feedparser
 import requests
-import datetime
+from datetime import datetime
 import os
 
 SENT_FILE = "sent_urls.txt"
