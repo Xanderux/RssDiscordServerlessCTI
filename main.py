@@ -3,6 +3,7 @@ import requests
 import os
 
 SENT_FILE = "sent_urls.txt"
+FEEDS_FILE = "feeds.txt"
 
 
 def load_already_sent_articles():
@@ -32,7 +33,9 @@ def send_discord_message(content: str):
 
 def load_feeds():
     """Load RSS feed URLs from feeds.txt."""
-    with open("feeds.txt", "r") as file:
+    if not os.path.exists(FEEDS_FILE):
+        return set()
+    with open(FEEDS_FILE, "r") as file:
         return file.read().splitlines()
 
 
