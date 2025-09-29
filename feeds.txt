@@ -1,2 +1,6 @@
 https://feeds.feedburner.com/threatintelligence/pvexyqv7v0v
 https://blog.sekoia.io/feed/
+https://research.checkpoint.com/feed/
+https://harfanglab.io/blog/feed/
+https://www.nextron-systems.com/blog/feed/
+https://unit42.paloaltonetworks.com/category/threat-research/feed/
