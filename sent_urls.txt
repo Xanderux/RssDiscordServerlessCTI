@@ -1,3 +1,4 @@
 https://blog.sekoia.io/apt28-operation-phantom-net-voxel/
 https://research.checkpoint.com/2025/29th-september-threat-intelligence-report/
 https://blog.sekoia.io/silent-smishing-the-hidden-abuse-of-cellular-router-apis/
+https://harfanglab.io/blog/product/edr-freeze-auto-protection/
