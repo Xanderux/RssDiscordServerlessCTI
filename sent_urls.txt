@@ -3,3 +3,4 @@ https://research.checkpoint.com/2025/29th-september-threat-intelligence-report/
 https://blog.sekoia.io/silent-smishing-the-hidden-abuse-of-cellular-router-apis/
 https://harfanglab.io/blog/product/edr-freeze-auto-protection/
 https://cloud.google.com/blog/topics/threat-intelligence/unc6040-proactive-hardening-recommendations/
+https://research.checkpoint.com/2025/rhadamanthys-0-9-x-walk-through-the-updates/
