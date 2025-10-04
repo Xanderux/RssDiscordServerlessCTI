@@ -4,3 +4,5 @@ https://research.checkpoint.com/feed/
 https://harfanglab.io/blog/feed/
 https://www.nextron-systems.com/blog/feed/
 https://unit42.paloaltonetworks.com/category/threat-research/feed/
+https://www.welivesecurity.com/en/rss/feed/
+https://thedfirreport.com/feed/
