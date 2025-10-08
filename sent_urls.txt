@@ -6,3 +6,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/unc6040-proactive-harde
 https://research.checkpoint.com/2025/rhadamanthys-0-9-x-walk-through-the-updates/
 https://unit42.paloaltonetworks.com/totolink-x6000r-vulnerabilities/
 https://research.checkpoint.com/2025/6th-october-threat-intelligence-report/
+https://harfanglab.io/blog/strategy/vulnerability-management-solutions-methods-tools/
