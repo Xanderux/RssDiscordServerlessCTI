@@ -8,3 +8,4 @@ https://unit42.paloaltonetworks.com/totolink-x6000r-vulnerabilities/
 https://research.checkpoint.com/2025/6th-october-threat-intelligence-report/
 https://harfanglab.io/blog/strategy/vulnerability-management-solutions-methods-tools/
 https://unit42.paloaltonetworks.com/clickfix-generator-first-of-its-kind/
+https://www.nextron-systems.com/2025/10/08/nextron-systems-and-betta-security-join-forces-to-strengthen-organizations-resilience-against-cyberattacks/
