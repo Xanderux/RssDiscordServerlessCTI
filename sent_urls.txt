@@ -14,3 +14,4 @@ https://unit42.paloaltonetworks.com/indirect-prompt-injection-poisons-ai-longter
 https://research.checkpoint.com/2025/13th-october-threat-intelligence-report/
 https://blog.sekoia.io/polaredge-backdoor-qnap-cve-2023-20118-analysis/
 https://unit42.paloaltonetworks.com/phantomvai-loader-delivers-infostealers/
+https://harfanglab.io/blog/product/european-defense-platform/
