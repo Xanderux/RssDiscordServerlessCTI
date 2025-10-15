@@ -13,3 +13,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/oracle-ebusiness-suite-
 https://unit42.paloaltonetworks.com/indirect-prompt-injection-poisons-ai-longterm-memory/
 https://research.checkpoint.com/2025/13th-october-threat-intelligence-report/
 https://blog.sekoia.io/polaredge-backdoor-qnap-cve-2023-20118-analysis/
+https://unit42.paloaltonetworks.com/phantomvai-loader-delivers-infostealers/
