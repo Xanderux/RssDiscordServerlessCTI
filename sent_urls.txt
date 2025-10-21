@@ -22,3 +22,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/unc5142-etherhiding-dis
 https://research.checkpoint.com/2025/20th-october-threat-intelligence-report/
 https://cloud.google.com/blog/topics/threat-intelligence/new-malware-russia-coldriver/
 https://blog.sekoia.io/userauthenticationmethod-microsoft-365-decode/
+https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-information-operations-drone-incursions/
