@@ -21,3 +21,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/dprk-adopts-etherhiding
 https://cloud.google.com/blog/topics/threat-intelligence/unc5142-etherhiding-distribute-malware/
 https://research.checkpoint.com/2025/20th-october-threat-intelligence-report/
 https://cloud.google.com/blog/topics/threat-intelligence/new-malware-russia-coldriver/
+https://blog.sekoia.io/userauthenticationmethod-microsoft-365-decode/
