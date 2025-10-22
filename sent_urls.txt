@@ -24,3 +24,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/new-malware-russia-cold
 https://blog.sekoia.io/userauthenticationmethod-microsoft-365-decode/
 https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-information-operations-drone-incursions/
 https://www.nextron-systems.com/2025/10/22/beyond-availability-forensic-backup-scanning-with-veeam-and-thor/
+https://harfanglab.io/blog/product/attack-surface-management-ahead-threats/
