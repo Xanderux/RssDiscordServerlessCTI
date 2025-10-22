@@ -23,3 +23,4 @@ https://research.checkpoint.com/2025/20th-october-threat-intelligence-report/
 https://cloud.google.com/blog/topics/threat-intelligence/new-malware-russia-coldriver/
 https://blog.sekoia.io/userauthenticationmethod-microsoft-365-decode/
 https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-information-operations-drone-incursions/
+https://www.nextron-systems.com/2025/10/22/beyond-availability-forensic-backup-scanning-with-veeam-and-thor/
