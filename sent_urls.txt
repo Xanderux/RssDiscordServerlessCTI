@@ -27,3 +27,4 @@ https://www.nextron-systems.com/2025/10/22/beyond-availability-forensic-backup-s
 https://harfanglab.io/blog/product/attack-surface-management-ahead-threats/
 https://unit42.paloaltonetworks.com/cloud-based-gift-card-fraud-campaign/
 https://blog.sekoia.io/transparenttribe-targets-indian-military-organisations-with-deskrat/
+https://unit42.paloaltonetworks.com/global-smishing-campaign/
