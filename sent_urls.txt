@@ -30,3 +30,4 @@ https://blog.sekoia.io/transparenttribe-targets-indian-military-organisations-wi
 https://unit42.paloaltonetworks.com/global-smishing-campaign/
 https://research.checkpoint.com/2025/youtube-ghost-network/
 https://cloud.google.com/blog/topics/threat-intelligence/vietnamese-actors-fake-job-posting-campaigns/
+https://unit42.paloaltonetworks.com/threat-actor-misuse-of-azurehound/
