@@ -32,3 +32,4 @@ https://research.checkpoint.com/2025/youtube-ghost-network/
 https://cloud.google.com/blog/topics/threat-intelligence/vietnamese-actors-fake-job-posting-campaigns/
 https://unit42.paloaltonetworks.com/threat-actor-misuse-of-azurehound/
 https://research.checkpoint.com/2025/27th-october-threat-intelligence-report/
+https://cloud.google.com/blog/topics/threat-intelligence/privileged-account-monitoring/
