@@ -33,3 +33,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/vietnamese-actors-fake-
 https://unit42.paloaltonetworks.com/threat-actor-misuse-of-azurehound/
 https://research.checkpoint.com/2025/27th-october-threat-intelligence-report/
 https://cloud.google.com/blog/topics/threat-intelligence/privileged-account-monitoring/
+https://unit42.paloaltonetworks.com/new-windows-based-malware-family-airstalk/
