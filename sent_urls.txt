@@ -38,3 +38,4 @@ https://unit42.paloaltonetworks.com/agent-session-smuggling-in-agent2agent-syste
 https://research.checkpoint.com/2025/drawn-to-danger-windows-graphics-vulnerabilities-lead-to-remote-code-execution-and-memory-exposure/
 https://research.checkpoint.com/2025/3rd-november-threat-intelligence-report/
 https://research.checkpoint.com/2025/generative-ai-for-reverse-engineering/
+https://www.welivesecurity.com/en/business-security/ground-zero-5-things-discovering-cyberattack/
