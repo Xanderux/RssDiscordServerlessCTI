@@ -36,3 +36,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/privileged-account-moni
 https://unit42.paloaltonetworks.com/new-windows-based-malware-family-airstalk/
 https://unit42.paloaltonetworks.com/agent-session-smuggling-in-agent2agent-systems/
 https://research.checkpoint.com/2025/drawn-to-danger-windows-graphics-vulnerabilities-lead-to-remote-code-execution-and-memory-exposure/
+https://research.checkpoint.com/2025/3rd-november-threat-intelligence-report/
