@@ -41,3 +41,4 @@ https://research.checkpoint.com/2025/generative-ai-for-reverse-engineering/
 https://www.welivesecurity.com/en/business-security/ground-zero-5-things-discovering-cyberattack/
 https://cloud.google.com/blog/topics/threat-intelligence/cybersecurity-forecast-2026/
 https://research.checkpoint.com/2025/microsoft-teams-impersonation-and-spoofing-vulnerabilities-exposed/
+https://harfanglab.io/blog/regulation/nis2-prerequisites-recommendations/
