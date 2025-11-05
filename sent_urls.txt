@@ -42,3 +42,4 @@ https://www.welivesecurity.com/en/business-security/ground-zero-5-things-discove
 https://cloud.google.com/blog/topics/threat-intelligence/cybersecurity-forecast-2026/
 https://research.checkpoint.com/2025/microsoft-teams-impersonation-and-spoofing-vulnerabilities-exposed/
 https://harfanglab.io/blog/regulation/nis2-prerequisites-recommendations/
+https://research.checkpoint.com/2025/how-an-attacker-drained-128m-from-balancer-through-rounding-error-exploitation/
