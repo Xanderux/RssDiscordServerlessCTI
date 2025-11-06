@@ -44,3 +44,4 @@ https://research.checkpoint.com/2025/microsoft-teams-impersonation-and-spoofing-
 https://harfanglab.io/blog/regulation/nis2-prerequisites-recommendations/
 https://research.checkpoint.com/2025/how-an-attacker-drained-128m-from-balancer-through-rounding-error-exploitation/
 https://cloud.google.com/blog/topics/threat-intelligence/threat-actor-usage-of-ai-tools/
+https://blog.sekoia.io/phishing-campaigns-i-paid-twice-targeting-booking-com-hotels-and-customers/
