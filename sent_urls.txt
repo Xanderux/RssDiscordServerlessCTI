@@ -46,3 +46,4 @@ https://research.checkpoint.com/2025/how-an-attacker-drained-128m-from-balancer-
 https://cloud.google.com/blog/topics/threat-intelligence/threat-actor-usage-of-ai-tools/
 https://blog.sekoia.io/phishing-campaigns-i-paid-twice-targeting-booking-com-hotels-and-customers/
 https://unit42.paloaltonetworks.com/landfall-is-new-commercial-grade-android-spyware/
+https://research.checkpoint.com/2025/10th-november-threat-intelligence-report/
