@@ -47,3 +47,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/threat-actor-usage-of-a
 https://blog.sekoia.io/phishing-campaigns-i-paid-twice-targeting-booking-com-hotels-and-customers/
 https://unit42.paloaltonetworks.com/landfall-is-new-commercial-grade-android-spyware/
 https://research.checkpoint.com/2025/10th-november-threat-intelligence-report/
+https://cloud.google.com/blog/topics/threat-intelligence/triofox-vulnerability-cve-2025-12480/
