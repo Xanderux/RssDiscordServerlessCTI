@@ -50,3 +50,4 @@ https://research.checkpoint.com/2025/10th-november-threat-intelligence-report/
 https://cloud.google.com/blog/topics/threat-intelligence/triofox-vulnerability-cve-2025-12480/
 https://unit42.paloaltonetworks.com/authentication-coercion/
 https://harfanglab.io/blog/strategy/workspace-security-platform-cyber-practices/
+https://research.checkpoint.com/2025/the-state-of-ransomware-q3-2025/
