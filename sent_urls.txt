@@ -51,3 +51,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/triofox-vulnerability-c
 https://unit42.paloaltonetworks.com/authentication-coercion/
 https://harfanglab.io/blog/strategy/workspace-security-platform-cyber-practices/
 https://research.checkpoint.com/2025/the-state-of-ransomware-q3-2025/
+https://cloud.google.com/blog/topics/threat-intelligence/time-travel-debugging-using-net-process-hollowing/
