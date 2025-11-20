@@ -57,3 +57,4 @@ https://research.checkpoint.com/2025/17th-november-threat-intelligence-report/
 https://thedfirreport.com/2025/11/17/cats-got-your-files-lynx-ransomware/
 https://cloud.google.com/blog/topics/threat-intelligence/analysis-of-unc1549-ttps-targeting-aerospace-defense/
 https://harfanglab.io/blog/strategy/ransomware-threat-landscape-study/
+https://cloud.google.com/blog/topics/threat-intelligence/apt24-pivot-to-multi-vector-attacks/
