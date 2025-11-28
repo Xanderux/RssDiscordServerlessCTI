@@ -62,3 +62,4 @@ https://research.checkpoint.com/2025/24th-november-threat-intelligence-report/
 https://unit42.paloaltonetworks.com/dilemma-of-ai-malicious-llms/
 https://harfanglab.io/blog/strategy/ciso-ceo-cio-agenda-2026/
 https://www.nextron-systems.com/2025/11/28/malicious-vs-code-extension-impersonating-material-icon-theme-found-in-marketplace/
+https://www.nextron-systems.com/2025/11/28/thor-vs-silver-fox-uncovering-and-defeating-a-sophisticated-valleyrat-campaign/
