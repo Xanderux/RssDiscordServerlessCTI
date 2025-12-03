@@ -68,3 +68,4 @@ https://blog.sekoia.io/advent-of-configuration-extraction-part-1-pipeline-overvi
 https://research.checkpoint.com/2025/1st-december-threat-intelligence-report/
 https://research.checkpoint.com/2025/openai-codex-cli-command-injection-vulnerability/
 https://research.checkpoint.com/2025/16-wei/
+https://harfanglab.io/blog/strategy/cyber-threat-research-2025/
