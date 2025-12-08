@@ -71,3 +71,4 @@ https://research.checkpoint.com/2025/16-wei/
 https://harfanglab.io/blog/strategy/cyber-threat-research-2025/
 https://blog.sekoia.io/ngo-reporters-without-borders-targeted-by-calisto-in-recent-campaign/
 https://unit42.paloaltonetworks.com/model-context-protocol-attack-vectors/
+https://blog.sekoia.io/advent-of-configuration-extraction-part-2-unwrapping-quasarrats-configuration/
