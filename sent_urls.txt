@@ -74,3 +74,4 @@ https://unit42.paloaltonetworks.com/model-context-protocol-attack-vectors/
 https://blog.sekoia.io/advent-of-configuration-extraction-part-2-unwrapping-quasarrats-configuration/
 https://research.checkpoint.com/2025/8th-december-threat-intelligence-report/
 https://unit42.paloaltonetworks.com/new-ransomware-01flip-written-in-rust/
+https://research.checkpoint.com/2025/cracking-valleyrat-from-builder-secrets-to-kernel-rootkits/
