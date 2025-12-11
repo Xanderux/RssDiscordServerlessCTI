@@ -75,3 +75,4 @@ https://blog.sekoia.io/advent-of-configuration-extraction-part-2-unwrapping-quas
 https://research.checkpoint.com/2025/8th-december-threat-intelligence-report/
 https://unit42.paloaltonetworks.com/new-ransomware-01flip-written-in-rust/
 https://research.checkpoint.com/2025/cracking-valleyrat-from-builder-secrets-to-kernel-rootkits/
+https://blog.sekoia.io/mandating-security-by-design-sekoias-blueprint-for-the-eu-cyber-resilience-act/
