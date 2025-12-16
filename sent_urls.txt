@@ -78,3 +78,4 @@ https://research.checkpoint.com/2025/cracking-valleyrat-from-builder-secrets-to-
 https://blog.sekoia.io/mandating-security-by-design-sekoias-blueprint-for-the-eu-cyber-resilience-act/
 https://blog.sekoia.io/advent-of-configuration-extraction-part-3-mapping-got-plt-and-disassembling-the-snowlight-loader/
 https://research.checkpoint.com/2025/15th-december-threat-intelligence-report/
+https://research.checkpoint.com/2025/ink-dragons-relay-network-and-offensive-operation/
