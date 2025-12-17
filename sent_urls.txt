@@ -80,3 +80,4 @@ https://blog.sekoia.io/advent-of-configuration-extraction-part-3-mapping-got-plt
 https://research.checkpoint.com/2025/15th-december-threat-intelligence-report/
 https://research.checkpoint.com/2025/ink-dragons-relay-network-and-offensive-operation/
 https://www.nextron-systems.com/2025/12/16/say-hello-to-nextrons-runeai/
+https://unit42.paloaltonetworks.com/ransomhouse-encryption-upgrade/
