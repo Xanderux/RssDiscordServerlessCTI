@@ -82,3 +82,4 @@ https://research.checkpoint.com/2025/ink-dragons-relay-network-and-offensive-ope
 https://www.nextron-systems.com/2025/12/16/say-hello-to-nextrons-runeai/
 https://unit42.paloaltonetworks.com/ransomhouse-encryption-upgrade/
 https://research.checkpoint.com/2025/gachiloader-node-js-malware-with-api-tracing/
+https://blog.sekoia.io/sekoia-io-strengthens-collective-cyber-defense-at-nato-ccdcoes-crossed-swords-2025-exercise/
