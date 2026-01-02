@@ -86,3 +86,4 @@ https://blog.sekoia.io/sekoia-io-strengthens-collective-cyber-defense-at-nato-cc
 https://blog.sekoia.io/advent-of-configuration-extraction-part-4-turning-capa-into-a-configuration-extractor-for-tinyshell-variant/
 https://research.checkpoint.com/2025/22nd-december-threat-intelligence-report/
 https://research.checkpoint.com/2025/29th-december-threat-intelligence-report/
+https://unit42.paloaltonetworks.com/vvs-stealer/
