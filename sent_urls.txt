@@ -87,3 +87,4 @@ https://blog.sekoia.io/advent-of-configuration-extraction-part-4-turning-capa-in
 https://research.checkpoint.com/2025/22nd-december-threat-intelligence-report/
 https://research.checkpoint.com/2025/29th-december-threat-intelligence-report/
 https://unit42.paloaltonetworks.com/vvs-stealer/
+https://research.checkpoint.com/2026/5th-january-threat-intelligence-report/
