@@ -89,3 +89,4 @@ https://research.checkpoint.com/2025/29th-december-threat-intelligence-report/
 https://unit42.paloaltonetworks.com/vvs-stealer/
 https://research.checkpoint.com/2026/5th-january-threat-intelligence-report/
 https://research.checkpoint.com/2026/inside-gobruteforcer-ai-generated-server-defaults-weak-passwords-and-crypto-focused-campaigns/
+https://harfanglab.io/blog/product/harfanglab-certified-by-the-bsi/
