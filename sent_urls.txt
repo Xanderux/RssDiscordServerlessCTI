@@ -94,3 +94,4 @@ https://research.checkpoint.com/2026/12th-january-threat-intelligence-report/
 https://cloud.google.com/blog/topics/threat-intelligence/auditing-salesforce-aura-data-exposure/
 https://research.checkpoint.com/2026/voidlink-the-cloud-native-malware-framework/
 https://unit42.paloaltonetworks.com/rce-vulnerabilities-in-ai-python-libraries/
+https://blog.sekoia.io/leveraging-landlock-telemetry-for-linux-detection-engineering/
