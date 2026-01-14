@@ -95,3 +95,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/auditing-salesforce-aur
 https://research.checkpoint.com/2026/voidlink-the-cloud-native-malware-framework/
 https://unit42.paloaltonetworks.com/rce-vulnerabilities-in-ai-python-libraries/
 https://blog.sekoia.io/leveraging-landlock-telemetry-for-linux-detection-engineering/
+https://research.checkpoint.com/2026/sicarii-ransomware-truth-vs-myth/
