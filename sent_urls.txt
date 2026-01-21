@@ -101,3 +101,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-
 https://research.checkpoint.com/2026/19th-january-threat-intelligence-report/
 https://research.checkpoint.com/2026/voidlink-early-ai-generated-malware-framework/
 https://unit42.paloaltonetworks.com/dos-attacks-and-azure-private-endpoint/
+https://harfanglab.io/blog/strategy/artificial-intelligence-experts-predictions-2026/
