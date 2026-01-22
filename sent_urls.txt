@@ -103,3 +103,4 @@ https://research.checkpoint.com/2026/voidlink-early-ai-generated-malware-framewo
 https://unit42.paloaltonetworks.com/dos-attacks-and-azure-private-endpoint/
 https://harfanglab.io/blog/strategy/artificial-intelligence-experts-predictions-2026/
 https://unit42.paloaltonetworks.com/real-time-malicious-javascript-through-llms/
+https://research.checkpoint.com/2026/konni-targets-developers-with-ai-malware/
