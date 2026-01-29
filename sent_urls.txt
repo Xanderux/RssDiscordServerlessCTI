@@ -109,3 +109,4 @@ https://research.checkpoint.com/2026/26th-january-threat-intelligence-report/
 https://cloud.google.com/blog/topics/threat-intelligence/exploiting-critical-winrar-vulnerability/
 https://research.checkpoint.com/2026/cyber-security-report-2026/
 https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network/
+https://blog.sekoia.io/meet-iclickfix-a-widespread-wordpress-targeting-framework-using-the-clickfix-tactic/
