@@ -117,3 +117,4 @@ https://research.checkpoint.com/2026/amaranth-dragon-weaponizes-cve-2025-8088-fo
 https://unit42.paloaltonetworks.com/tracking-threat-groups-through-cloud-logging/
 https://research.checkpoint.com/2026/9th-february-threat-intelligence-report/
 https://cloud.google.com/blog/topics/threat-intelligence/unc1069-targets-cryptocurrency-ai-social-engineering/
+https://cloud.google.com/blog/topics/threat-intelligence/threats-to-defense-industrial-base/
