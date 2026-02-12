@@ -119,3 +119,4 @@ https://research.checkpoint.com/2026/9th-february-threat-intelligence-report/
 https://cloud.google.com/blog/topics/threat-intelligence/unc1069-targets-cryptocurrency-ai-social-engineering/
 https://cloud.google.com/blog/topics/threat-intelligence/threats-to-defense-industrial-base/
 https://blog.sekoia.io/oysterloader-unmasked-the-multi-stage-evasion-loader/
+https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use/
