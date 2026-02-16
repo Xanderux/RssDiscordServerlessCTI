@@ -121,3 +121,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/threats-to-defense-indu
 https://blog.sekoia.io/oysterloader-unmasked-the-multi-stage-evasion-loader/
 https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use/
 https://unit42.paloaltonetworks.com/qr-codes-as-attack-vector/
+https://research.checkpoint.com/2026/16th-february-threat-intelligence-report/
