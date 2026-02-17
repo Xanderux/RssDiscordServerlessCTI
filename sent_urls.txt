@@ -123,3 +123,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/distillation-experiment
 https://unit42.paloaltonetworks.com/qr-codes-as-attack-vector/
 https://research.checkpoint.com/2026/16th-february-threat-intelligence-report/
 https://research.checkpoint.com/2026/ai-in-the-middle-turning-web-based-ai-services-into-c2-proxies-the-future-of-ai-driven-attacks/
+https://cloud.google.com/blog/topics/threat-intelligence/unc6201-exploiting-dell-recoverpoint-zero-day/
