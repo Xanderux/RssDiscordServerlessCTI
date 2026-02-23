@@ -126,3 +126,4 @@ https://research.checkpoint.com/2026/ai-in-the-middle-turning-web-based-ai-servi
 https://cloud.google.com/blog/topics/threat-intelligence/unc6201-exploiting-dell-recoverpoint-zero-day/
 https://harfanglab.io/blog/methodology/email-account-compromise-assessing-and-containing-an-incident/
 https://research.checkpoint.com/2026/23rd-february-threat-intelligence-report/
+https://research.checkpoint.com/2026/2025-the-untold-stories-of-check-point-research/
