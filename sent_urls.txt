@@ -127,3 +127,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/unc6201-exploiting-dell
 https://harfanglab.io/blog/methodology/email-account-compromise-assessing-and-containing-an-incident/
 https://research.checkpoint.com/2026/23rd-february-threat-intelligence-report/
 https://research.checkpoint.com/2026/2025-the-untold-stories-of-check-point-research/
+https://harfanglab.io/blog/strategy/fragmented-endpoint-strategies-attack-surface-management/
