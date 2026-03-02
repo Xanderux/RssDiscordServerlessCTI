@@ -130,3 +130,5 @@ https://research.checkpoint.com/2026/2025-the-untold-stories-of-check-point-rese
 https://harfanglab.io/blog/strategy/fragmented-endpoint-strategies-attack-surface-management/
 https://research.checkpoint.com/2026/rce-and-api-token-exfiltration-through-claude-code-project-files-cve-2025-59536/
 https://cloud.google.com/blog/topics/threat-intelligence/disrupting-gridtide-global-espionage-campaign/
+https://blog.sekoia.io/sekoia-achieves-soc2-compliance/
+https://unit42.paloaltonetworks.com/gemini-live-in-chrome-hijacking/
