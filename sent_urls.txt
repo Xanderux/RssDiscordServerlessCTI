@@ -132,3 +132,4 @@ https://research.checkpoint.com/2026/rce-and-api-token-exfiltration-through-clau
 https://cloud.google.com/blog/topics/threat-intelligence/disrupting-gridtide-global-espionage-campaign/
 https://blog.sekoia.io/sekoia-achieves-soc2-compliance/
 https://unit42.paloaltonetworks.com/gemini-live-in-chrome-hijacking/
+https://research.checkpoint.com/2026/2nd-march-threat-intelligence-report/
