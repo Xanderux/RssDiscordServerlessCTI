@@ -135,3 +135,4 @@ https://unit42.paloaltonetworks.com/gemini-live-in-chrome-hijacking/
 https://research.checkpoint.com/2026/2nd-march-threat-intelligence-report/
 https://unit42.paloaltonetworks.com/ai-agent-prompt-injection/
 https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
+https://research.checkpoint.com/2026/silver-dragon-targets-organizations-in-southeast-asia-and-europe/
