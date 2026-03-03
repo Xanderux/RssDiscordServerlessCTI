@@ -133,3 +133,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/disrupting-gridtide-glo
 https://blog.sekoia.io/sekoia-achieves-soc2-compliance/
 https://unit42.paloaltonetworks.com/gemini-live-in-chrome-hijacking/
 https://research.checkpoint.com/2026/2nd-march-threat-intelligence-report/
+https://unit42.paloaltonetworks.com/ai-agent-prompt-injection/
