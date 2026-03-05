@@ -137,3 +137,4 @@ https://unit42.paloaltonetworks.com/ai-agent-prompt-injection/
 https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/
 https://research.checkpoint.com/2026/silver-dragon-targets-organizations-in-southeast-asia-and-europe/
 https://research.checkpoint.com/2026/interplay-between-iranian-targeting-of-ip-cameras-and-physical-warfare-in-the-middle-east/
+https://cloud.google.com/blog/topics/threat-intelligence/2025-zero-day-review/
