@@ -140,3 +140,4 @@ https://research.checkpoint.com/2026/interplay-between-iranian-targeting-of-ip-c
 https://cloud.google.com/blog/topics/threat-intelligence/2025-zero-day-review/
 https://blog.sekoia.io/shadow-it-the-initial-access-you-didnt-log/
 https://unit42.paloaltonetworks.com/cl-unk-1068-targets-critical-sectors/
+https://cloud.google.com/blog/topics/threat-intelligence/preparation-hardening-destructive-attacks/
