@@ -141,3 +141,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/2025-zero-day-review/
 https://blog.sekoia.io/shadow-it-the-initial-access-you-didnt-log/
 https://unit42.paloaltonetworks.com/cl-unk-1068-targets-critical-sectors/
 https://cloud.google.com/blog/topics/threat-intelligence/preparation-hardening-destructive-attacks/
+https://research.checkpoint.com/2026/9th-march-threat-intelligence-report/
