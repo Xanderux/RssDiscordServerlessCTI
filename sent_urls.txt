@@ -144,3 +144,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/preparation-hardening-d
 https://research.checkpoint.com/2026/9th-march-threat-intelligence-report/
 https://unit42.paloaltonetworks.com/fuzzing-ai-judges-security-bypass/
 https://research.checkpoint.com/2026/iranian-mois-actors-the-cyber-crime-connection/
+https://harfanglab.io/blog/strategy/the-cloud-sovereignty-framework-a-first-step-toward-assessing-sovereignty/
