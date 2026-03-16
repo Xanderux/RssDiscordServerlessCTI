@@ -147,3 +147,5 @@ https://research.checkpoint.com/2026/iranian-mois-actors-the-cyber-crime-connect
 https://harfanglab.io/blog/strategy/the-cloud-sovereignty-framework-a-first-step-toward-assessing-sovereignty/
 https://research.checkpoint.com/2026/handala-hack-unveiling-groups-modus-operandi/
 https://unit42.paloaltonetworks.com/espionage-campaign-against-military-targets/
+https://cloud.google.com/blog/topics/threat-intelligence/ransomware-ttps-shifting-threat-landscape/
+https://research.checkpoint.com/2026/16th-march-threat-intelligence-report/
