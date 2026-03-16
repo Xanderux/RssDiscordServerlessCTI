@@ -149,3 +149,4 @@ https://research.checkpoint.com/2026/handala-hack-unveiling-groups-modus-operand
 https://unit42.paloaltonetworks.com/espionage-campaign-against-military-targets/
 https://cloud.google.com/blog/topics/threat-intelligence/ransomware-ttps-shifting-threat-landscape/
 https://research.checkpoint.com/2026/16th-march-threat-intelligence-report/
+https://unit42.paloaltonetworks.com/boggy-serpens-threat-assessment/
