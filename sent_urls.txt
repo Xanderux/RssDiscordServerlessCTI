@@ -152,3 +152,4 @@ https://research.checkpoint.com/2026/16th-march-threat-intelligence-report/
 https://unit42.paloaltonetworks.com/boggy-serpens-threat-assessment/
 https://unit42.paloaltonetworks.com/genai-llm-prompt-fuzzing/
 https://harfanglab.io/blog/methodology/zero-trust-principles-deployment/
+https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain/
