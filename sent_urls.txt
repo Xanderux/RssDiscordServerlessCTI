@@ -155,3 +155,4 @@ https://harfanglab.io/blog/methodology/zero-trust-principles-deployment/
 https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain/
 https://unit42.paloaltonetworks.com/ai-use-in-malware/
 https://www.nextron-systems.com/2026/03/20/regphantom-backdoor-threat-analysis/
+https://research.checkpoint.com/2026/23rd-march-threat-intelligence-report/
