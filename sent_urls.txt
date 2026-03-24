@@ -158,3 +158,4 @@ https://www.nextron-systems.com/2026/03/20/regphantom-backdoor-threat-analysis/
 https://research.checkpoint.com/2026/23rd-march-threat-intelligence-report/
 https://cloud.google.com/blog/topics/threat-intelligence/m-trends-2026/
 https://unit42.paloaltonetworks.com/passwordless-authentication/
+https://blog.sekoia.io/silver-fox-the-only-tax-audit-where-the-fine-print-installs-malware/
