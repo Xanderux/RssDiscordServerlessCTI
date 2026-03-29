@@ -161,3 +161,4 @@ https://unit42.paloaltonetworks.com/passwordless-authentication/
 https://blog.sekoia.io/silver-fox-the-only-tax-audit-where-the-fine-print-installs-malware/
 https://unit42.paloaltonetworks.com/phishing-attackers-pose-as-panw-recruiters/
 https://harfanglab.io/blog/methodology/system-compromise-assessing-containing-incident/
+https://research.checkpoint.com/2026/ai-threat-landscape-digest-january-february-2026/
