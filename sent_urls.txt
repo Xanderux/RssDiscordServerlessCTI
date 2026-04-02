@@ -169,3 +169,4 @@ https://www.nextron-systems.com/2026/03/30/the-aix-blind-spot-getting-visibility
 https://unit42.paloaltonetworks.com/double-agents-vertex-ai/
 https://blog.sekoia.io/meet-sekoia-reveal-turn-fragmented-asset-data-into-unified-soc-context/
 https://research.checkpoint.com/2026/operation-truechaos-0-day-exploitation-against-southeast-asian-government-targets/
+https://cloud.google.com/blog/topics/threat-intelligence/vsphere-brickstorm-defender-guide/
