@@ -172,3 +172,4 @@ https://research.checkpoint.com/2026/operation-truechaos-0-day-exploitation-agai
 https://cloud.google.com/blog/topics/threat-intelligence/vsphere-brickstorm-defender-guide/
 https://unit42.paloaltonetworks.com/amazon-bedrock-multiagent-applications/
 https://research.checkpoint.com/2026/6th-march-threat-intelligence-report-2/
+https://unit42.paloaltonetworks.com/modern-kubernetes-threats/
