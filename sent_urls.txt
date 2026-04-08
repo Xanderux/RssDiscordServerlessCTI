@@ -175,3 +175,4 @@ https://research.checkpoint.com/2026/6th-march-threat-intelligence-report-2/
 https://unit42.paloaltonetworks.com/modern-kubernetes-threats/
 https://blog.sekoia.io/eviltokens-an-ai-augmented-phishing-as-a-service-for-automating-bec-fraud-part-2/
 https://unit42.paloaltonetworks.com/bypass-of-aws-sandbox-network-isolation-mode/
+https://unit42.paloaltonetworks.com/exploit-of-aws-agentcore-iam-god-mode/
