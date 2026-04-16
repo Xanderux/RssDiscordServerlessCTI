@@ -181,3 +181,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/europe-data-leak-landsc
 https://cloud.google.com/blog/topics/threat-intelligence/defending-enterprise-ai-vulnerabilities/
 https://blog.sekoia.io/from-apt28-to-repythonnet-automating-net-malware-analysis/
 https://blog.sekoia.io/apt28-to-repythonnet-automating-net-malware-analysis/
+https://unit42.paloaltonetworks.com/exploitation-of-cve-2023-33538/
