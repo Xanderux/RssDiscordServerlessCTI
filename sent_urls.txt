@@ -184,3 +184,4 @@ https://blog.sekoia.io/apt28-to-repythonnet-automating-net-malware-analysis/
 https://unit42.paloaltonetworks.com/exploitation-of-cve-2023-33538/
 https://research.checkpoint.com/2026/20th-april-threat-intelligence-report/
 https://research.checkpoint.com/2026/dfir-report-the-gentlemen/
+https://unit42.paloaltonetworks.com/air-snitch-enterprise-wireless-attacks/
