@@ -189,3 +189,4 @@ https://thedfirreport.com/2026/04/22/bissa-scanner-exposed-ai-assisted-mass-expl
 https://www.nextron-systems.com/2026/04/22/nextron-locked-shields-thor-apt-scanner/
 https://blog.sekoia.io/strategic-autonomy-where-you-get-to-choose/
 https://unit42.paloaltonetworks.com/autonomous-ai-cloud-attacks/
+https://cloud.google.com/blog/topics/threat-intelligence/unc6692-social-engineering-custom-malware/
