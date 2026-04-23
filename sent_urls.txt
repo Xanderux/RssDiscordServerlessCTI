@@ -187,3 +187,4 @@ https://research.checkpoint.com/2026/dfir-report-the-gentlemen/
 https://unit42.paloaltonetworks.com/air-snitch-enterprise-wireless-attacks/
 https://thedfirreport.com/2026/04/22/bissa-scanner-exposed-ai-assisted-mass-exploitation-and-credential-harvesting/
 https://www.nextron-systems.com/2026/04/22/nextron-locked-shields-thor-apt-scanner/
+https://blog.sekoia.io/strategic-autonomy-where-you-get-to-choose/
