@@ -191,3 +191,4 @@ https://blog.sekoia.io/strategic-autonomy-where-you-get-to-choose/
 https://unit42.paloaltonetworks.com/autonomous-ai-cloud-attacks/
 https://cloud.google.com/blog/topics/threat-intelligence/unc6692-social-engineering-custom-malware/
 https://research.checkpoint.com/2026/27th-april-threat-intelligence-report/
+https://research.checkpoint.com/2026/vect-ransomware-by-design-wiper-by-accident/
