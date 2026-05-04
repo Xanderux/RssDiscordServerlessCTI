@@ -193,3 +193,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/unc6692-social-engineer
 https://research.checkpoint.com/2026/27th-april-threat-intelligence-report/
 https://research.checkpoint.com/2026/vect-ransomware-by-design-wiper-by-accident/
 https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/
+https://research.checkpoint.com/2026/4th-may-threat-intelligence-report/
