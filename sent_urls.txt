@@ -195,3 +195,5 @@ https://research.checkpoint.com/2026/vect-ransomware-by-design-wiper-by-accident
 https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/
 https://research.checkpoint.com/2026/4th-may-threat-intelligence-report/
 https://research.checkpoint.com/2026/the-state-of-ransomware-q1-2026/
+https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/
+https://research.checkpoint.com/2026/11th-may-threat-intelligence-report/
