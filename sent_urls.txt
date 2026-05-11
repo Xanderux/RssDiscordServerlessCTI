@@ -198,3 +198,4 @@ https://research.checkpoint.com/2026/the-state-of-ransomware-q1-2026/
 https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/
 https://research.checkpoint.com/2026/11th-may-threat-intelligence-report/
 https://thedfirreport.com/2026/05/11/flash-alert-etherrat-and-tuktuk-c2-end-in-the-gentleman-ransomware/
+https://unit42.paloaltonetworks.com/active-directory-certificate-services-exploitation/
