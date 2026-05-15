@@ -201,3 +201,4 @@ https://thedfirreport.com/2026/05/11/flash-alert-etherrat-and-tuktuk-c2-end-in-t
 https://unit42.paloaltonetworks.com/active-directory-certificate-services-exploitation/
 https://research.checkpoint.com/2026/thus-spoke-the-gentlemen/
 https://unit42.paloaltonetworks.com/gremlin-stealer-evolution/
+https://cloud.google.com/blog/topics/threat-intelligence/blackfile-vishing-extortion-operation/
