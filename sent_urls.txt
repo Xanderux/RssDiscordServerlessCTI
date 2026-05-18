@@ -202,3 +202,5 @@ https://unit42.paloaltonetworks.com/active-directory-certificate-services-exploi
 https://research.checkpoint.com/2026/thus-spoke-the-gentlemen/
 https://unit42.paloaltonetworks.com/gremlin-stealer-evolution/
 https://cloud.google.com/blog/topics/threat-intelligence/blackfile-vishing-extortion-operation/
+https://research.checkpoint.com/2026/18th-may-threat-intelligence-report/
+https://www.nextron-systems.com/2026/05/18/announcing-the-release-of-asgard-management-center-v4-0/
