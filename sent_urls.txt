@@ -206,3 +206,4 @@ https://research.checkpoint.com/2026/18th-may-threat-intelligence-report/
 https://www.nextron-systems.com/2026/05/18/announcing-the-release-of-asgard-management-center-v4-0/
 https://unit42.paloaltonetworks.com/tracking-tampered-chef-clusters/
 https://unit42.paloaltonetworks.com/roadtools-cloud-attacks/
+https://research.checkpoint.com/2026/fast-and-furious-nimbus-manticore-operations-during-the-iranian-conflict/
