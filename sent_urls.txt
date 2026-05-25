@@ -209,3 +209,4 @@ https://unit42.paloaltonetworks.com/roadtools-cloud-attacks/
 https://research.checkpoint.com/2026/fast-and-furious-nimbus-manticore-operations-during-the-iranian-conflict/
 https://cloud.google.com/blog/topics/threat-intelligence/chinese-language-phishing-services/
 https://cloud.google.com/blog/topics/threat-intelligence/knowledgedeliver-viewstate-deserialization-vulnerability/
+https://research.checkpoint.com/2026/25th-may-threat-intelligence-report/
