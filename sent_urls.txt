@@ -212,3 +212,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/knowledgedeliver-viewst
 https://research.checkpoint.com/2026/25th-may-threat-intelligence-report/
 https://research.checkpoint.com/2026/ai-threat-landscape-digest-march-april-2026/
 https://www.nextron-systems.com/2026/05/27/nextron-systems-welcomes-new-majority-investor-eurazeo/
+https://unit42.paloaltonetworks.com/fifa-world-cup-attack-surface/
