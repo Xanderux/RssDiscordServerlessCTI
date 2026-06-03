@@ -218,3 +218,4 @@ https://research.checkpoint.com/2026/1st-june-threat-intelligence-report/
 https://www.nextron-systems.com/2026/06/01/detecting-nimbus-manticore-and-their-sideloading-infection-chains/
 https://www.nextron-systems.com/2026/06/02/new-thor-cloud-log-inspection-view/
 https://unit42.paloaltonetworks.com/flutterbridge-new-fluttershell-backdoor/
+https://blog.sekoia.io/fsbs-matryoshka-2-3-gamaredons-gifts-that-keeps-unpacking-gammaload/
