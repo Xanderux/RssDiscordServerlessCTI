@@ -220,3 +220,4 @@ https://www.nextron-systems.com/2026/06/02/new-thor-cloud-log-inspection-view/
 https://unit42.paloaltonetworks.com/flutterbridge-new-fluttershell-backdoor/
 https://blog.sekoia.io/fsbs-matryoshka-2-3-gamaredons-gifts-that-keeps-unpacking-gammaload/
 https://research.checkpoint.com/2026/impersonation-click-hijacking-and-tds-inside-a-malware-distribution-ecosystem/
+https://blog.sekoia.io/fsbs-matryoshka-3-3-gamaredons-gifts-that-keeps-unpacking-gammasteel/
