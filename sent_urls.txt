@@ -224,3 +224,4 @@ https://blog.sekoia.io/fsbs-matryoshka-3-3-gamaredons-gifts-that-keeps-unpacking
 https://cloud.google.com/blog/topics/threat-intelligence/targeted-campaign-us-law-firms/
 https://research.checkpoint.com/2026/8th-june-threat-intelligence-report/
 https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/
+https://blog.sekoia.io/apt28-an-evolution-of-tradecraft/
