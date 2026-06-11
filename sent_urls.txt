@@ -225,3 +225,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/targeted-campaign-us-la
 https://research.checkpoint.com/2026/8th-june-threat-intelligence-report/
 https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/
 https://blog.sekoia.io/apt28-an-evolution-of-tradecraft/
+https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/
