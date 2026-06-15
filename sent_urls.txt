@@ -228,3 +228,5 @@ https://blog.sekoia.io/apt28-an-evolution-of-tradecraft/
 https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/
 https://research.checkpoint.com/2026/from-sqli-to-rce-exploiting-langgraphs-checkpointer/
 https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit/
+https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/
+https://research.checkpoint.com/2026/15th-june-threat-intelligence-report/
