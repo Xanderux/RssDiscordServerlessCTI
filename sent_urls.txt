@@ -231,3 +231,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-ed
 https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/
 https://research.checkpoint.com/2026/15th-june-threat-intelligence-report/
 https://blog.sekoia.io/unveiling-errtraffic-inside-a-growing-clickfix-malware-distribution-framework/
+https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/
