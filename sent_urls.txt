@@ -230,3 +230,4 @@ https://research.checkpoint.com/2026/from-sqli-to-rce-exploiting-langgraphs-chec
 https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit/
 https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/
 https://research.checkpoint.com/2026/15th-june-threat-intelligence-report/
+https://blog.sekoia.io/unveiling-errtraffic-inside-a-growing-clickfix-malware-distribution-framework/
