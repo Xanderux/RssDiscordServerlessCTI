@@ -234,3 +234,4 @@ https://blog.sekoia.io/unveiling-errtraffic-inside-a-growing-clickfix-malware-di
 https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/
 https://research.checkpoint.com/2026/from-stars-to-upvotes-fake-reputation-fueling-a-crypto-clipboard-hijacker/
 https://www.nextron-systems.com/2026/06/19/oss-artifact-scanning-at-scale/
+https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/
