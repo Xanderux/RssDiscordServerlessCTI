@@ -236,3 +236,4 @@ https://research.checkpoint.com/2026/from-stars-to-upvotes-fake-reputation-fueli
 https://www.nextron-systems.com/2026/06/19/oss-artifact-scanning-at-scale/
 https://research.checkpoint.com/2026/22nd-june-threat-intelligence-report/
 https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/
+https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/
