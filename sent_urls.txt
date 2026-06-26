@@ -240,3 +240,4 @@ https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/
 https://cloud.google.com/blog/topics/threat-intelligence/zero-day-exploitation-cisco-catalyst-sd-wan-manager/
 https://cloud.google.com/blog/topics/threat-intelligence/stockstay-turla-intelligence-gathering/
 https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/
+https://www.nextron-systems.com/2026/06/26/anatomy-of-a-whql-signed-windows-filtering-platform-wfp-kernel-resident-network-backdoor/
