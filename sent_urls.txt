@@ -244,3 +244,4 @@ https://www.nextron-systems.com/2026/06/26/anatomy-of-a-whql-signed-windows-filt
 https://research.checkpoint.com/2026/29th-june-threat-intelligence-report-2/
 https://thedfirreport.com/2026/06/29/from-bing-search-to-ransomware-bumblebee-and-adaptixc2-deliver-akira-3/
 https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-influence-ecosystem/
+https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/
