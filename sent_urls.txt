@@ -246,3 +246,4 @@ https://thedfirreport.com/2026/06/29/from-bing-search-to-ransomware-bumblebee-an
 https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-influence-ecosystem/
 https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/
 https://research.checkpoint.com/2026/browser-only-ransomware-from-llm-hallucinations-to-a-practical-attack-technique/
+https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks/
