@@ -248,3 +248,5 @@ https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/
 https://research.checkpoint.com/2026/browser-only-ransomware-from-llm-hallucinations-to-a-practical-attack-technique/
 https://cloud.google.com/blog/topics/threat-intelligence/google-continued-disruption-residential-proxy-networks/
 https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/
+https://research.checkpoint.com/2026/cavern-manticore-exposing-iran-linked-modular-c2-framework/
+https://research.checkpoint.com/2026/6th-july-threat-intelligence-report-2/
