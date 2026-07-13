@@ -252,3 +252,4 @@ https://research.checkpoint.com/2026/cavern-manticore-exposing-iran-linked-modul
 https://research.checkpoint.com/2026/6th-july-threat-intelligence-report-2/
 https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/
 https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/
+https://research.checkpoint.com/2026/13th-july-threat-intelligence-report/
