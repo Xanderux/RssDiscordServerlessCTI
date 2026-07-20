@@ -258,3 +258,4 @@ https://unit42.paloaltonetworks.com/tuxbot-v3-evolution-iot-botnet/
 https://cloud.google.com/blog/topics/threat-intelligence/exposed-cloud-functions-harden/
 https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerability-management/
 https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/
+https://research.checkpoint.com/2026/20th-july-threat-intelligence-report/
