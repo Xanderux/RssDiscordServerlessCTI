@@ -260,3 +260,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/ai-assisted-vulnerabili
 https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/
 https://research.checkpoint.com/2026/20th-july-threat-intelligence-report/
 https://www.nextron-systems.com/2026/07/22/asgard-management-center-4-1-more-resilient-more-secure-ready-for-thor-11/
+https://unit42.paloaltonetworks.com/russian-webmail-espionage/
