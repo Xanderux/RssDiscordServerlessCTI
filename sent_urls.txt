@@ -267,3 +267,4 @@ https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/
 https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for-supply-chain-compromise/
 https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/
 https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/
+https://research.checkpoint.com/2026/3rd-august-threat-intelligence-report/
