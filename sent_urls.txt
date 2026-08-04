@@ -268,3 +268,5 @@ https://cloud.google.com/blog/topics/threat-intelligence/mitigation-guidance-for
 https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/
 https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/
 https://research.checkpoint.com/2026/3rd-august-threat-intelligence-report/
+https://www.nextron-systems.com/2026/08/04/detecting-certighost-cve-2026-54121-sigma-coverage-across-the-full-attack-chain/
+https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/
