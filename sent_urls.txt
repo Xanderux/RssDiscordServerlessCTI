@@ -274,3 +274,4 @@ https://unit42.paloaltonetworks.com/ai-token-jacking/
 https://www.nextron-systems.com/2026/08/10/new-in-thor-cloud-sso-granular-permissions-and-account-api-keys/
 https://research.checkpoint.com/2026/10th-august-threat-intelligence-report/
 https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/
+https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/
