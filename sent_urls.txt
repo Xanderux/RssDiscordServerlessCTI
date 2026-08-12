@@ -276,3 +276,4 @@ https://research.checkpoint.com/2026/10th-august-threat-intelligence-report/
 https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/
 https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/
 https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becomes-a-zero-day-attack/
+https://www.nextron-systems.com/2026/08/12/why-defensive-ai-has-a-harder-job-than-offensive-ai/
