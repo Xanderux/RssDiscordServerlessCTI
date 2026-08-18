@@ -280,3 +280,4 @@ https://www.nextron-systems.com/2026/08/12/why-defensive-ai-has-a-harder-job-tha
 https://research.checkpoint.com/2026/the-state-of-ransomware-q2-2026/
 https://research.checkpoint.com/2026/17th-august-threat-intelligence-report/
 https://research.checkpoint.com/2026/thousands-of-hacked-wordpress-sites-one-operation-unmasking-stopandprotect/
+https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/
