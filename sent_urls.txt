@@ -279,3 +279,4 @@ https://research.checkpoint.com/2026/shattering-the-dream-when-a-job-offer-becom
 https://www.nextron-systems.com/2026/08/12/why-defensive-ai-has-a-harder-job-than-offensive-ai/
 https://research.checkpoint.com/2026/the-state-of-ransomware-q2-2026/
 https://research.checkpoint.com/2026/17th-august-threat-intelligence-report/
+https://research.checkpoint.com/2026/thousands-of-hacked-wordpress-sites-one-operation-unmasking-stopandprotect/
