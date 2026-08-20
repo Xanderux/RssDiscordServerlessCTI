@@ -282,3 +282,4 @@ https://research.checkpoint.com/2026/17th-august-threat-intelligence-report/
 https://research.checkpoint.com/2026/thousands-of-hacked-wordpress-sites-one-operation-unmasking-stopandprotect/
 https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review/
 https://unit42.paloaltonetworks.com/communication-channel-identity-risks/
+https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/
