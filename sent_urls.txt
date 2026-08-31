@@ -287,3 +287,5 @@ https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-targe
 https://research.checkpoint.com/2026/24th-august-threat-intelligence-report/
 https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/
 https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/
+https://research.checkpoint.com/2026/breaking-the-seal-static-deobfuscation-of-jsceals-compiled-v8-bytecode/
+https://research.checkpoint.com/2026/31th-august-threat-intelligence-report/
