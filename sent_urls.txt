@@ -286,3 +286,4 @@ https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediat
 https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia/
 https://research.checkpoint.com/2026/24th-august-threat-intelligence-report/
 https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/
+https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/
