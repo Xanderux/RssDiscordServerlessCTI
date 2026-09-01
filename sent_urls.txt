@@ -289,3 +289,4 @@ https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/
 https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/
 https://research.checkpoint.com/2026/breaking-the-seal-static-deobfuscation-of-jsceals-compiled-v8-bytecode/
 https://research.checkpoint.com/2026/31th-august-threat-intelligence-report/
+https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/
