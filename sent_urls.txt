@@ -292,3 +292,4 @@ https://research.checkpoint.com/2026/31th-august-threat-intelligence-report/
 https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/
 https://research.checkpoint.com/2026/gaming-the-system-how-a-chinese-speaking-actor-turned-brazilian-government-sites-into-an-seo-weapon/
 https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/
+https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/
