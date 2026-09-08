@@ -295,3 +295,4 @@ https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-in
 https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/
 https://research.checkpoint.com/2026/7th-september-threat-intelligence-report/
 https://research.checkpoint.com/2026/the-shared-clipboard-inside-the-sandbox-cross-account-data-leakage-in-chatgpt/
+https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/
