@@ -294,3 +294,4 @@ https://research.checkpoint.com/2026/gaming-the-system-how-a-chinese-speaking-ac
 https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/
 https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/
 https://research.checkpoint.com/2026/7th-september-threat-intelligence-report/
+https://research.checkpoint.com/2026/the-shared-clipboard-inside-the-sandbox-cross-account-data-leakage-in-chatgpt/
