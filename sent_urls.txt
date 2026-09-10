@@ -298,3 +298,4 @@ https://research.checkpoint.com/2026/the-shared-clipboard-inside-the-sandbox-cro
 https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai/
 https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/
 https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/
+https://research.checkpoint.com/2026/puzzlemask-abusing-plain-prose-as-a-covert-ai-attack-vector/
