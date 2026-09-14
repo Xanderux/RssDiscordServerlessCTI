@@ -299,3 +299,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-auton
 https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/
 https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/
 https://research.checkpoint.com/2026/puzzlemask-abusing-plain-prose-as-a-covert-ai-attack-vector/
+https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/
