@@ -301,3 +301,4 @@ https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/
 https://research.checkpoint.com/2026/puzzlemask-abusing-plain-prose-as-a-covert-ai-attack-vector/
 https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/
 https://research.checkpoint.com/2026/14th-september-threat-intelligence-report/
+https://research.checkpoint.com/2026/ai-threat-landscape-digest-july-august-2026/
