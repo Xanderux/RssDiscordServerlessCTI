@@ -303,3 +303,4 @@ https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identitie
 https://research.checkpoint.com/2026/14th-september-threat-intelligence-report/
 https://research.checkpoint.com/2026/ai-threat-landscape-digest-july-august-2026/
 https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/
+https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/
