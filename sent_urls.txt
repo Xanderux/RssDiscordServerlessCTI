@@ -304,3 +304,4 @@ https://research.checkpoint.com/2026/14th-september-threat-intelligence-report/
 https://research.checkpoint.com/2026/ai-threat-landscape-digest-july-august-2026/
 https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/
 https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/
+https://cloud.google.com/blog/topics/threat-intelligence/hardening-code-pipelines-and-ci-cd-infrastructure/
