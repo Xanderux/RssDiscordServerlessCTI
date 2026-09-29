@@ -307,3 +307,5 @@ https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/
 https://cloud.google.com/blog/topics/threat-intelligence/hardening-code-pipelines-and-ci-cd-infrastructure/
 https://research.checkpoint.com/2026/28th-september-threat-intelligence-report/
 https://www.nextron-systems.com/2026/09/28/management-center-4-2-enterprise-sso/
+https://www.nextron-systems.com/2026/09/29/new-thor-detection-coverage-for-citrix-netscaler-cve-2026-88771-and-cve-2026-88772/
+https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/
