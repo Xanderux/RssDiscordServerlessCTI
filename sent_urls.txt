@@ -312,3 +312,4 @@ https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/
 https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/
 https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/
 https://www.nextron-systems.com/2026/09/30/thor-at-locked-shields-2026-how-teams-used-it-and-what-they-told-us/
+https://research.checkpoint.com/2026/5th-october-threat-intelligence-report/
