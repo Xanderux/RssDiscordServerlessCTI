@@ -317,3 +317,4 @@ https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructu
 https://www.nextron-systems.com/2026/10/06/update-on-citrix-netscaler-cve-2026-88771-and-cve-2026-88772-expanded-thor-detection-coverage/
 https://www.sekoia.com/blog/with-sekoia-intelligence-we-gave-you-half-the-picture-heres-the-other-half
 https://research.checkpoint.com/2026/12th-october-threat-intelligence-report/
+https://research.checkpoint.com/2026/when-llm-gateways-go-wrong-findings-from-litellm/
