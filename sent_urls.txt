@@ -319,3 +319,4 @@ https://www.sekoia.com/blog/with-sekoia-intelligence-we-gave-you-half-the-pictur
 https://research.checkpoint.com/2026/12th-october-threat-intelligence-report/
 https://research.checkpoint.com/2026/when-llm-gateways-go-wrong-findings-from-litellm/
 https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/
+https://research.checkpoint.com/2026/19th-october-threat-intelligence-report/
