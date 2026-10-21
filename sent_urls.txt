@@ -322,3 +322,4 @@ https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malwa
 https://research.checkpoint.com/2026/19th-october-threat-intelligence-report/
 https://research.checkpoint.com/2026/the-risk-of-ai-powered-antidetect-browsers-in-online-fraud-and-influence-operations/
 https://www.sekoia.com/blog/from-mobile-threat-detection-to-autonomous-investigation-connecting-zimperium-with-sekoia
+https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/
