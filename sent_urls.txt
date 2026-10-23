@@ -324,3 +324,4 @@ https://research.checkpoint.com/2026/the-risk-of-ai-powered-antidetect-browsers-
 https://www.sekoia.com/blog/from-mobile-threat-detection-to-autonomous-investigation-connecting-zimperium-with-sekoia
 https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/
 https://www.nextron-systems.com/2026/10/22/php2shell-detection-coverage-in-thor/
+https://research.checkpoint.com/2026/infostealer-riding-the-ai-train/
