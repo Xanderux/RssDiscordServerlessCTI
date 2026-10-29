@@ -330,3 +330,5 @@ https://www.nextron-systems.com/2026/10/26/analysis-cockpit-4-5-more-efficient-c
 https://www.nextron-systems.com/2026/10/26/management-center-4-3-a-new-interface-and-smarter-thor-exclusions/
 https://www.nextron-systems.com/2026/10/26/security-center-3-0-multi-tenancy-advanced-access-control-and-user-api/
 https://research.checkpoint.com/2026/tricks-from-the-past-deployed-via-signed-chatgpt-and-claude-binaries/
+https://research.checkpoint.com/2026/coheres-qwen-story-looks-more-like-model-jaggedness/
+https://www.nextron-systems.com/2026/10/29/beyond-framework-signatures-understanding-ai-driven-intrusions/
