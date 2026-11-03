@@ -335,3 +335,4 @@ https://www.nextron-systems.com/2026/10/29/beyond-framework-signatures-understan
 https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/
 https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/
 https://research.checkpoint.com/2026/2nd-november-threat-intelligence-report/
+https://research.checkpoint.com/2026/free-the-model-sell-the-gateway-prompt-adware-hidden-in-jailbreak-bundles/
