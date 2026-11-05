@@ -336,3 +336,5 @@ https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-c
 https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/
 https://research.checkpoint.com/2026/2nd-november-threat-intelligence-report/
 https://research.checkpoint.com/2026/free-the-model-sell-the-gateway-prompt-adware-hidden-in-jailbreak-bundles/
+https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/
+https://research.checkpoint.com/2026/chatgpt-lockdown-mode-bypass-phishing-malware-delivery-and-silent-data-exfiltration/
