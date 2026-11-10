@@ -338,3 +338,4 @@ https://research.checkpoint.com/2026/2nd-november-threat-intelligence-report/
 https://research.checkpoint.com/2026/free-the-model-sell-the-gateway-prompt-adware-hidden-in-jailbreak-bundles/
 https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/
 https://research.checkpoint.com/2026/chatgpt-lockdown-mode-bypass-phishing-malware-delivery-and-silent-data-exfiltration/
+https://research.checkpoint.com/2026/not-all-that-glitters-is-gold-tracking-copperdragons-sparrow-framework-around-the-globe/
