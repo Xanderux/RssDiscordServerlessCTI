@@ -340,3 +340,5 @@ https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrim
 https://research.checkpoint.com/2026/chatgpt-lockdown-mode-bypass-phishing-malware-delivery-and-silent-data-exfiltration/
 https://research.checkpoint.com/2026/not-all-that-glitters-is-gold-tracking-copperdragons-sparrow-framework-around-the-globe/
 https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/
+https://research.checkpoint.com/2026/php2shell-exploitation-on-check-point-gateway/
+https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/
