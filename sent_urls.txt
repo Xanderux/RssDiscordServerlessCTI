@@ -342,3 +342,5 @@ https://research.checkpoint.com/2026/not-all-that-glitters-is-gold-tracking-copp
 https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/
 https://research.checkpoint.com/2026/php2shell-exploitation-on-check-point-gateway/
 https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/
+https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/
+https://research.checkpoint.com/2026/16th-november-threat-intelligence-report/
