@@ -344,3 +344,4 @@ https://research.checkpoint.com/2026/php2shell-exploitation-on-check-point-gatew
 https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/
 https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/
 https://research.checkpoint.com/2026/16th-november-threat-intelligence-report/
+https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/
