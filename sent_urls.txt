@@ -345,3 +345,6 @@ https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/
 https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/
 https://research.checkpoint.com/2026/16th-november-threat-intelligence-report/
 https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/
+https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-vsphere/
+https://www.sekoia.com/blog/on-premises-vs-cloud-how-to-choose-a-deployment-model-for-your-soc
+https://research.checkpoint.com/2026/30-years-of-gatekeeper-asymmetry-doom-the-paradox-that-makes-powerful-llms-more-vulnerable/
