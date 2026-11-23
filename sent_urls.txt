@@ -348,3 +348,4 @@ https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study
 https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-vsphere/
 https://www.sekoia.com/blog/on-premises-vs-cloud-how-to-choose-a-deployment-model-for-your-soc
 https://research.checkpoint.com/2026/30-years-of-gatekeeper-asymmetry-doom-the-paradox-that-makes-powerful-llms-more-vulnerable/
+https://research.checkpoint.com/2026/23rd-november-threat-intelligence-report/
