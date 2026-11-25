@@ -352,3 +352,4 @@ https://research.checkpoint.com/2026/23rd-november-threat-intelligence-report/
 https://research.checkpoint.com/2026/volant-manticore-flying-under-the-radar/
 https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/
 https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/
+https://www.nextron-systems.com/2026/11/25/bringing-nextron-sigma-rules-to-sekoia/
